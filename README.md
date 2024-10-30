@@ -28,13 +28,9 @@ Develop a PySpark, Spark or Scala script to process the sample (500K approx.) pr
 
 The sample data is available in a shared Google Drive, in parquet files format in two different folders and structures; **geo** and **labels,** the following images show the table structures and a code example for importing the data into a Google Colab environment
 
-![Text
+![img_01](img/img_01.png)
 
-Description automatically generated with low confidence](img/img_01.png)
-
-![Graphical user interface, text, application
-
-Description automatically generated](img/img_02.png)
+![img_02](img/img_02.png)
 
 Consider the following points to develop the script:
 
