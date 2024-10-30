@@ -30,11 +30,11 @@ The sample data is available in a shared Google Drive, in parquet files format i
 
 ![Text
 
-Description automatically generated with low confidence](Aspose.Words.9a1f22da-203c-4c26-bb31-0ccf2321b65c.001.png)
+Description automatically generated with low confidence](img/img_01.png)
 
 ![Graphical user interface, text, application
 
-Description automatically generated](Aspose.Words.9a1f22da-203c-4c26-bb31-0ccf2321b65c.002.png)
+Description automatically generated](img/img_02.png)
 
 Consider the following points to develop the script:
 
